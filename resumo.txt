@@ -1,1 +1,4 @@
-Insira seu resumo aqui!
+alguns dos conteúdos da primeira alula foi:GitHub que serve para armazenar atividades,
+GitHub Classroom é onde as atividades são determinadas e entregues,
+GitHub Codespace serve para realizar as atividades no navegador.
+Todos essas plataformas são aplicativos de codigos e atividades.
